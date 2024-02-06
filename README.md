@@ -1,9 +1,11 @@
-Creacion del fichero readme, este es el fichero readme.md, para la practica de Git y GitHub, de la asignatura despliegue de aplicaciones.
+# Práctica de Git y GitHub - Despliegue de Aplicaciones
 
-      NOMBRE	         |     GITHUB
------------------------|-------------------      
-      JuluVi           |	https://github.com/JuluVi
------------------------|-------------------
-      Seruel           |	https://github.com/Seruel
------------------------|--------------------
-     GabriiMG          |	https://github.com/GabriiMG
+Este repositorio corresponde a la práctica de Git y GitHub de la asignatura Despliegue de Aplicaciones.
+
+## Compañeros
+
+| Nombre   | GitHub                                      |
+|----------|---------------------------------------------|
+| JuluVi   | [https://github.com/JuluVi](https://github.com/JuluVi)   |
+| Seruel   | [https://github.com/Seruel](https://github.com/Seruel)   |
+| GabriiMG | [https://github.com/GabriiMG](https://github.com/GabriiMG) |
